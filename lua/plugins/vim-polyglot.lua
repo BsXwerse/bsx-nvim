@@ -1,4 +1,3 @@
 return {
-	"sheerun/vim-polyglot",
-	version = "*",
+	'sheerun/vim-polyglot'
 }
