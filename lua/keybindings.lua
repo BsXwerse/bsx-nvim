@@ -21,3 +21,6 @@ map("n", "<A-w>", "<C-w>w", opt)
 
 -- esc清除高亮
 map("n", "<ESC>", "<ESC>:noh<CR>", opt)
+
+-- 推测缩进
+map("n", "<A-g>", ":GuessIndent<CR>", opt)

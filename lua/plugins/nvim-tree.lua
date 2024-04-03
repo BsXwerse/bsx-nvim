@@ -5,6 +5,7 @@
 -- c 拷贝
 -- p 粘贴
 -- d 删除
+-- ctrl+] 设置根目录
 
 return {
   "nvim-tree/nvim-tree.lua",
